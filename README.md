@@ -23,6 +23,8 @@ My Current Languages in computer science and learning more in the future are:
 
 8.CSS
 
+9.React
+
 Languages I will learn more in the future are:
 
 1.C#

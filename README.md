@@ -6,7 +6,8 @@
 Greetings! My name is Maxwell Wang and I am a upcoming Computer Science major at the University of Delaware.
 
 My Current Languages in computer science and learning more in the future are:
-\n1.C++
+
+1.C++
 2.Java
 3.Python
 4.C

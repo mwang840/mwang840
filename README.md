@@ -3,7 +3,8 @@
 [![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/mwang840/github-readme-stats)
 
 
-Greetings! My name is Maxwell Wang and I am a upcoming Computer Science major at the University of Delaware.
+Greetings! My name is Maxwell Wang and I am a  Computer Science major at the University of Delaware class of 2024.
+Im currently Learning: Machine Language and Assembly and Introduction to Software Enginerring
 
 My Current Languages in computer science and learning more in the future are:
 

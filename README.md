@@ -14,23 +14,27 @@ My Current Languages in computer science and learning more in the future are:
 
 3.Python
 
-4.C
+4.TypeScript
 
-5.JavaScript
+5.R
 
 6.HTML
 
-7.TypeScript
+7.C
 
 8.CSS
 
 9.React
 
+10.Node.js
+
+11.Git Bash
+
 Languages I will learn more in the future are:
 
 1.C#
 
-2.Git Bash
+2.Shell scripting
 
 3.SQL
 
@@ -38,7 +42,7 @@ Languages I will learn more in the future are:
 
 5.Rust
 
-6.Node.js
+6.JavaScript
 
 7.Next.js
 

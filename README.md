@@ -14,7 +14,7 @@ My Current Languages in computer science and learning more in the future are:
 
 3.Python
 
-4.TypeScript :ts:
+4.TypeScript 
 
 5.R
 
@@ -29,6 +29,7 @@ My Current Languages in computer science and learning more in the future are:
 10.Node.js
 
 11.Git Bash
+
 
 Languages I will learn more in the future are:
 

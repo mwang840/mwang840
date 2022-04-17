@@ -14,7 +14,7 @@ My Current Languages in computer science and learning more in the future are:
 
 3.Python
 
-4.TypeScript
+4.TypeScript :ts:
 
 5.R
 

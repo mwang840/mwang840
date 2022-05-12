@@ -8,19 +8,19 @@ I'm currently Learning: Machine Language and Assembly and Introduction to Softwa
 
 My Current Languages in computer science and learning more in the future are:
 
-1.C++
+1. C++ ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
 
-2.Java
+2. Java
 
-3.Python
+3. Python
 
-4.TypeScript 
+4. TypeScript 
 
-5.R
+5. R
 
-6.HTML
+6. HTML
 
-7.C
+7. C
 
 8.CSS
 
@@ -28,7 +28,9 @@ My Current Languages in computer science and learning more in the future are:
 
 10.Node.js
 
-11.Git Bash
+11. Git Bash
+
+12. REACT
 
 
 Languages I will learn more in the future are:

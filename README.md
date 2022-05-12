@@ -8,7 +8,7 @@ I'm currently Learning: Machine Language and Assembly and Introduction to Softwa
 
 My Current Languages in computer science and learning more in the future are:
 
-1. C++ (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++", width="100">)
+1. C++ <img src="cpp.png" alt="cpp" width=100>
 
 2. Java
 

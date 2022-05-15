@@ -5,7 +5,7 @@ import CodersrankSummary from '@codersrank/summary';
 window.customElements.define('codersrank-summary', CodersrankSummary);
 
 [![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/mwang840/github-readme-stats)
-<codersrank-summary username="YOUR_USERNAME"></codersrank-summary>
+<codersrank-summary username="mwang840"></codersrank-summary>
 
 Greetings! My name is Maxwell Wang and I am a  Computer Science major at the University of Delaware class of 2024 with a concentration in AI.
 I'm currently Learning: Machine Language and Assembly and Introduction to Software Enginerring

@@ -8,7 +8,7 @@ I'm currently Learning: Machine Language and Assembly and Introduction to Softwa
 
 My Current Languages in computer science and learning more in the future are:
 
-1. C++ <img src="cpp.jpg" alt="cpp" width=100>
+1. C++ 
 
 2. Java
 
@@ -54,3 +54,5 @@ Feel free to reach out if you have any questions
 Email: maxwang@udel.edu
 
 LinkedIn: https://www.linkedin.com/in/maxwell-wang-02595a1b9/
+
+<codersrank-summary username="YOUR_USERNAME"></codersrank-summary>

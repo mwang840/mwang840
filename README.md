@@ -1,8 +1,9 @@
 # mwang840
 [![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/mwang840/github-readme-stats)
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mwang840&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mwang8404web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
 />
+
 
 Greetings! My name is Maxwell Wang and I am a  Computer Science major at the University of Delaware class of 2024 with a concentration in AI.
 I'm currently Learning: Machine Language and Assembly and Introduction to Software Enginerring

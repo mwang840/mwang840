@@ -33,6 +33,8 @@ My Current Languages in computer science and learning more in the future are:
 
 12. REACT
 
+13. JavaScript
+
 
 Languages I will learn more in the future are:
 
@@ -46,9 +48,13 @@ Languages I will learn more in the future are:
 
 5.Rust
 
-6.JavaScript
+6.F#
 
 7.Next.js
+
+8.Powershell
+
+9.Cobalt
 
 Feel free to reach out if you have any questions 
 

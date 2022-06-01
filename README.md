@@ -1,5 +1,5 @@
 # mwang840
-[![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/mwang840/github-readme-stats)
+![Maxwell WangsGitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwang840&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/mwang840/github-readme-stats)
 

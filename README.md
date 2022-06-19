@@ -50,11 +50,11 @@ Languages I will learn more in the future are:
 
 6.F#
 
-7.Next.js
+7.Vue.js
 
 8.Powershell
 
-9.Cobalt
+9.Go Lang
 
 Feel free to reach out if you have any questions 
 

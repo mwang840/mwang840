@@ -14,6 +14,12 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React, Node.js, Git Bash, JavaSc
 
 [UD Course Schelduled Frontend](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
 
+<p>Written in TypeScript, React.js, Hooks, and HTML/CSS by Maxwell Wang, Joshua Strassle and Eric Toreki, 
+ we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. 
+ Students are able to add, delete or change plans, scheldules for each semester and each course per semester </p>
+ 
+
+
 [Competitive Programming](https://github.com/mwang840/CompetiveProgramming)
 
 [Raspberry Pi Projects](https://github.com/mwang840/PiProjectsNScripts)

@@ -40,7 +40,7 @@ Leon Zhao. I then practice solving real life problems via codeforces a competiti
 
 Feel free to reach out to me if you have any questions or want to colloborate on a project
 
-[Email](malito:maxwang@udel.edu)
+[Email](mailto:maxwang@udel.edu)
 
 [LinkedIn](https://www.linkedin.com/in/maxwell-wang-02595a1b9/)
 

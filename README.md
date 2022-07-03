@@ -10,9 +10,17 @@ Greetings! My name is Maxwell Wang and I am a  Computer Science major at the Uni
 
 C++, Java, Python, TypeScript, R, HTML, C, CSS, React, Node.js, Git Bash, JavaScript
 
-<h2>My current projects</h2>
+<h2>My main projects</h2>
 
 [UD Course Schelduled Frontend](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
+
+[Competitive Programming](https://github.com/mwang840/CompetiveProgramming)
+
+[Raspberry Pi Projects](https://github.com/mwang840/PiProjectsNScripts)
+
+[React in a Nutshell](https://github.com/mwang840/React-In-A-nutshell)
+
+[IShowSpeed](https://github.com/mwang840/IShowSpeed)
 
 <h2> I'm currently learning </h2>
 

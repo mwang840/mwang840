@@ -17,7 +17,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 <p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, scheldules for each semester and each course per semester. </p>
  
 
-[Competitive Programming](https://github.com/mwang840/CompetiveProgramming)
+[Competitive Programming Club](https://github.com/mwang840/CompetiveProgramming)
 
 <p>Written in C++, every Tuesdays during the school semester, I attended Competitive Programming Club hosted by undergraduate students, Jan Ahmed, Amani Kruga and
 Leon Zhao. I then practice solving real life problems via codeforces a competitive programming website applying data structures throughout each problem.</p>

@@ -8,7 +8,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 <h1>My experiences:</h1>
 
-C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, Basic Knowledge of Git (Bash, Terminal and Github) Unity and Assembly Language
+C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, Basic Knowledge of Git (Bash, Terminal and Github) Unity, Raspberry Pi and Assembly Language (ASM)
 
 <h1>My main projects:</h1>
 

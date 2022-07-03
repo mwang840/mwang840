@@ -21,6 +21,9 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React, Node.js, Git Bash, JavaSc
 
 
 [Competitive Programming](https://github.com/mwang840/CompetiveProgramming)
+<p>Written in C++, every Tuesdays during the school semester, I attended Competitive Programming Club hosted by undergraduate students, Jan Ahmed, Amani Kruga and
+Leon Zhao. I then practice solving real life problems via codeforces a competitive programming website applying data structures throughout each problem.</p>
+
 
 [Raspberry Pi Projects](https://github.com/mwang840/PiProjectsNScripts)
 

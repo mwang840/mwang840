@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwang840&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/mwang840/github-readme-stats)
 
 
-Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 with a concentration in AI.
+Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 with a concentration in Artificial Intelligence.
 
 <h1>My experiences:</h1>
 

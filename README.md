@@ -14,7 +14,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 
 [UD Course Schelduler Frontend Website](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
 
-<p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, scheldules for each semester and each course per semester </p>
+<p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, scheldules for each semester and each course per semester. </p>
  
 
 [Competitive Programming](https://github.com/mwang840/CompetiveProgramming)
@@ -34,9 +34,9 @@ Leon Zhao. I then practice solving real life problems via codeforces a competiti
 [IShowSpeed](https://github.com/mwang840/IShowSpeed)
 <p>Written in TypeScript with the use of Discord.js libraries and Mongo Databases, a bot that implements Discord's API can currently execute basic commands such as multiplying, adding, subtracting, pinging and much more of IShowSpeeds traits. IShowSpeed is a youtuber who makes funny streams every day and plays a lot of games ranging from Talking Ben to FIFA. This bot is still in the works but will keep updating the bot and adding more commands.
 
-<h2> I'm currently learning or will learn in the future</h2>
+<h2> I'm currently learning or will learn in the forseeable future</h2>
 
-***C#, .NET framework, SQL, Go Language, Vue.js, Rust, Maybe PHP??***
+***C#, .NET framework, SQL, Go Language, Vue.js, Rust, Ruby, Maybe PHP??***
 
 Feel free to reach out to me if you have any questions or want to colloborate on a project
 

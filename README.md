@@ -12,7 +12,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React, Node.js, Git Bash, JavaSc
 
 <h2>My main projects</h2>
 
-[UD Course Schelduled Frontend](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
+[UD Course Schelduler Frontend Website](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
 
 <p>Written in TypeScript, React.js, Hooks, and HTML/CSS by Maxwell Wang, Joshua Strassle and Eric Toreki, 
  we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. 
@@ -40,6 +40,6 @@ Feel free to reach out if you have any questions
 
 Email: maxwang@udel.edu
 
-LinkedIn: https://www.linkedin.com/in/maxwell-wang-02595a1b9/
+[LinkedIn] (https://www.linkedin.com/in/maxwell-wang-02595a1b9/)
 
 

@@ -25,7 +25,7 @@ Leon Zhao. I then practice solving real life problems via codeforces a competiti
 
 [Raspberry Pi Projects](https://github.com/mwang840/PiProjectsNScripts)
 
-<p>Written in C, Assembly (ASM) language and in the future some Python and other Object-Oriented Programming languages, this project was influenced by Cameron Thacker who also made the Rasbperry Pi Scrips projects. Currently has the Blackjack game (Written in C from CISC-210), Factorial of a Number (without recursion and multiplication), Displays the Initial M with purple lights, Displays a Red X on the pi screen, Clears the lights off the raspberry pi screen, Display blue lights on the pi (All written in Assembly/ASM language). Doubly-Linked-List (Written in C and in progress).</p>
+<p>Written in C, Assembly (ASM) language and in the future some Python and other Object-Oriented Programming languages, this project was influenced by Cameron Thacker who also made the Rasbperry Pi Scrips projects. Currently has the Blackjack game (Written in C from CISC-210), Factorial of a Number (without recursion and multiplication), Displays the Initial M with purple lights, Displays a Red X on the pi screen, Clears the lights off the raspberry pi screen, Display blue lights on the pi (All written in Assembly/ASM language). Doubly-Linked-List (Written in C and currently a work in progress).</p>
 
 [React in a Nutshell](https://github.com/mwang840/React-In-A-nutshell)
 

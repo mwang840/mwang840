@@ -10,7 +10,8 @@ Greetings! My name is Maxwell Wang and I am a  Computer Science major at the Uni
 
 C++, Java, Python, TypeScript, R, HTML, C, CSS, React, Node.js, Git Bash, JavaScript
 
-#My current projects
+##My current projects
+
 ###[UD Course Schelduled Frontend](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
 
 <h2> I'm currently learning </h2>

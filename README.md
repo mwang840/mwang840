@@ -5,32 +5,14 @@
 
 
 Greetings! My name is Maxwell Wang and I am a  Computer Science major at the University of Delaware class of 2024 with a concentration in AI.
-I'm currently Learning: Machine Language and Assembly and Introduction to Software Enginerring
 
 <h1>My experiences:</h1>
 
 C++, Java, Python, TypeScript, R, HTML, C, CSS, React, Node.js, Git Bash, JavaScript
 
+<h2> I'm currently learning </h2>
 
-Languages I will learn more in the future are:
-
-1.C#
-
-2.Shell scripting
-
-3.SQL
-
-4.Ruby
-
-5.Rust
-
-6.F#
-
-7.Vue.js
-
-8.Powershell
-
-9.Go Lang
+***C#, .NET framework, SQL, Go Lang, Vue.js, Maybe PHP??***
 
 Feel free to reach out if you have any questions 
 

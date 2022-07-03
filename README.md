@@ -40,6 +40,6 @@ Feel free to reach out if you have any questions
 
 Email: maxwang@udel.edu
 
-[LinkedIn] (https://www.linkedin.com/in/maxwell-wang-02595a1b9/)
+[LinkedIn](https://www.linkedin.com/in/maxwell-wang-02595a1b9/)
 
 

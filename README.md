@@ -20,7 +20,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 [Competitive Programming Club](https://github.com/mwang840/CompetiveProgramming)
 
 <p>Written in C++, every Tuesdays during the school semester, I attended Competitive Programming Club hosted by undergraduate students, Jan Ahmed, Amani Kruga and
-Leon Zhao. I then practice solving real life problems via codeforces a competitive programming website applying data structures throughout each problem.</p>
+Leon Zhao. I then practice solving real life problems via Codeforces.com a competitive programming website applying data structures throughout each problem.</p>
 
 
 [Raspberry Pi Projects](https://github.com/mwang840/PiProjectsNScripts)
@@ -36,7 +36,7 @@ Leon Zhao. I then practice solving real life problems via codeforces a competiti
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
 
-***C#, .NET framework, SQL, Go Language, Vue.js, Rust, Ruby, Maybe PHP??***
+***C#, .NET framework, SQL, Go Language, Vue.js, Rust, Ruby, PHP and maybe more modern languages***
 
 Feel free to reach out to me if you have any questions or want to colloborate on a project
 

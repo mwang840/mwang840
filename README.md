@@ -32,7 +32,7 @@ Leon Zhao. I then practice solving real life problems via Codeforces.com a compe
 <p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we designed a website that describes what react hooks are and how the react hooks should be used properly when making a website. On our website the client can see the description of react hooks and can click buttons to show React.js based memes</p>
 
 [IShowSpeed](https://github.com/mwang840/IShowSpeed)
-<p>Written in TypeScript with the use of Discord.js libraries and Mongo Databases, a bot that implements Discord's API can currently execute basic commands such as multiplying, adding, subtracting, pinging and much more of IShowSpeeds traits. IShowSpeed is a youtuber who makes funny streams every day and plays a lot of games ranging from Talking Ben to FIFA. This bot is still in the works but will keep updating the bot and adding more commands.
+<p>Written in TypeScript (including some JavaScript files generating after running tsc speed.ts) with the use of Discord.js libraries and Mongo Databases, a bot that implements Discord's API can currently execute basic commands such as multiplying, adding, subtracting, pinging and much more of IShowSpeeds traits. IShowSpeed is a youtuber who makes funny streams every day and plays a lot of games ranging from Talking Ben to FIFA. This bot is still in the works but will keep updating the bot and adding more commands.
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
 

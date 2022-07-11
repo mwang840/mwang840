@@ -14,7 +14,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 
 [UD Course Scheduler Frontend Website](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
 
-<p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, scheldules for each semester and each course per semester. </p>
+<p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, schedules for each semester and each course per semester. </p>
  
 
 [Competitive Programming Club](https://github.com/mwang840/CompetiveProgramming)

@@ -43,6 +43,6 @@ Feel free to reach out to me if you have any questions or want to colloborate on
 
 [LinkedIn](https://www.linkedin.com/in/maxwell-wang-02595a1b9/)
 
-[Website](Coming Soon)
+[Website](https://mwang840.github.io/maxwang/)
 
 

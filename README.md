@@ -2,7 +2,8 @@
 ![Maxwell Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwang840&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/mwang840/github-readme-stats)
-![kyu](https://www.codewars.com/users/draco_635/badges/large)
+
+![kyu](https://www.codewars.com/users/draco_635/badges/micro)
 
 Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 and aspiring to achieve more throughout my career.
 

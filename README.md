@@ -39,7 +39,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 
 ***C#, .NET framework, SQL, Go Language, Vue.js, Rust, Ruby, PHP and maybe more modern languages***
 
-Feel free to reach out to me if you have any questions or want to colloborate on a project
+Feel free to reach out to me if you have any questions or want to collaborate on a project
 
 [Email](mailto:maxwang@udel.edu)
 

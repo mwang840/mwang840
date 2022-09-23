@@ -24,9 +24,9 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 <p>Written in C++, every Tuesdays during the school semester, I attended Competitive Programming Club hosted by undergraduate students, and then practice solving real life problems via Codeforces.com a competitive programming website applying data structures throughout each problem.</p>
 
 
-[Raspberry Pi Projects](https://github.com/mwang840/PiProjectsNScripts)
+[Assembly Image Projects](https://github.com/mwang840/AssemblyProjects)
 
-<p>Written in C, Assembly (ASM) language and in the future some Python and other Object-Oriented Programming languages, this project was influenced by Cameron Thacker who also made the Rasbperry Pi Scrips projects.</p>
+<p>Written in Assembly Language (ASM), this project displays select images including an X, M, and clears the lights on the Raspberry Pi/p>
 
 [React in a Nutshell](https://github.com/mwang840/React-In-A-nutshell)
 

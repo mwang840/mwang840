@@ -26,7 +26,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 
 [Assembly Image Projects](https://github.com/mwang840/AssemblyProjects)
 
-<p>Written in Assembly Language (ASM), this project displays select images including an X, M, and clears the lights on the Raspberry Pi/p>
+<p>Written in Assembly Language (ASM), this project displays select images including an X, M, and clears the lights on the Raspberry Pi.</p>
 
 [React in a Nutshell](https://github.com/mwang840/React-In-A-nutshell)
 

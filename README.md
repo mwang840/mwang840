@@ -10,7 +10,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 <h1>My experiences:</h1>
 
-C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, Basic Knowledge of Git (Bash, Terminal and Github) Unity, Raspberry Pi and Assembly Language (ASM)
+C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, Basic Knowledge of Git (Bash, Terminal and Github) Unity, Raspberry Pi, SQL and Assembly Language (ASM)
 
 <h1>My main projects:</h1>
 
@@ -32,12 +32,11 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 
 <p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we designed a website that describes what react hooks are and how the react hooks should be used properly when making a website which the client can see the description of react hooks and can click buttons to show React.js based memes</p>
 
-[IShowSpeed](https://github.com/mwang840/IShowSpeed)
-<p>Written in TypeScript (including some JavaScript files generating after running tsc speed.ts) the bot which implements Discord's API can currently execute basic commands such as multiplying, adding, subtracting, pinging and much more of IShowSpeeds traits. IShowSpeed is a youtuber who makes funny streams every day and plays a lot of games ranging from Talking Ben to FIFA. This bot is still in the works but will keep updating the bot and adding more commands.
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
 
-***C#, .NET framework, SQL, Go Language, Vue.js, Rust, Ruby, PHP and maybe more modern languages***
+***ASP.NET framework, Blazor Web Framework, Go Language, Rust, Ruby, Haxe, Elixir and maybe more modern languages***
+<h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Artificial Intelligence, Machine Learning, Game Development and App Development</h2>
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project
 

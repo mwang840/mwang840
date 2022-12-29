@@ -10,7 +10,9 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 <h1>My experiences:</h1>
 
-C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, Basic Knowledge of Git (Bash, Terminal and Github) Unity, Raspberry Pi, SQL and Assembly Language (ASM)
+<h2>Intermediate Experience in: TypeScript, Python, JavaScript, HTML/CSS, C++, Java</h2>
+<h2>Basic Knowledge in: Assembly Language and SQL R, C#, C</h2>
+<h2>Technologies: Intermediate in: React.js framework, Basic Knowledge in: REST.API methods, Blazor, .net framework, ASP.NET core, Numpy, Pandas and Pyspark
 
 <h1>My main projects:</h1>
 
@@ -35,7 +37,7 @@ C++, Java, Python, TypeScript, R, HTML, C, CSS, React.js, Node.js, JavaScript, B
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
 
-***ASP.NET framework, Blazor Web Framework, Go Language, Rust, Ruby, Haxe, Elixir and maybe more modern languages***
+***Go Language, Rust, Ruby, Haxe, Elixir***
 <h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Artificial Intelligence, Machine Learning, Game Development and App Development</h2>
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project

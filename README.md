@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20
 
 
  
-Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 and aspiring to achieve more throughout my career.
+Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 specializing in artificial intelligence and robotics and aspiring to achieve more throughout my career.
 
 <h1>My experiences:</h1>
 

@@ -25,7 +25,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++"/></a>
 <h2>Basic Knowledge in:
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="36" height="36" alt="R Programming"/></a>
- <a href="https://www.nasm.us/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="36" height="36" alt="NASM/Assembly Language/x86 Assembly"></a>
+ <a href="https://www.nasm.us/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="40" height="36" alt="NASM/Assembly Language/x86 Assembly"></a>
  Assembly Language and SQL R, C#, C</h2>
 <h2>Technologies: Intermediate in: React.js framework, Basic Knowledge in: REST.API methods, Blazor, .net framework, ASP.NET core, Numpy, Pandas and Pyspark
 

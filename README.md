@@ -1,5 +1,6 @@
 # Maxwell Wang
 <a href="https://www.github.com/mwang840" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
 ![Maxwell Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwang840&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/mwang840/github-readme-stats)

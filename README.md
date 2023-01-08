@@ -34,7 +34,8 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C Programming"/></a>
  <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="50" height="36" alt="NASM/Assembly Language/x86 Assembly"></a>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="36" alt="Node.js"/></a>
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36"/></a> 
+ <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="36" height="36" alt=".NET framework"/></a>
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36" alt="Numpy"/></a> 
 <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas"/></a>  
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
@@ -70,7 +71,7 @@ SQL (Structured Query Language)
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="36" height="36" alt="Rust Programming"></a>
  
-<h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Artificial Intelligence, Machine Learning, Game Development and App Development</h2>
+<h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Software Engineering, Artificial Intelligence and Machine Learning</h2>
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project
 

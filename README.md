@@ -16,6 +16,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <h2>Intermediate Experience in: 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
  TypeScript, Python, JavaScript, HTML/CSS, C++, Java</h2>
 <h2>Basic Knowledge in: Assembly Language and SQL R, C#, C</h2>
 <h2>Technologies: Intermediate in: React.js framework, Basic Knowledge in: REST.API methods, Blazor, .net framework, ASP.NET core, Numpy, Pandas and Pyspark

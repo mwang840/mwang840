@@ -26,8 +26,11 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <h2>Basic Knowledge in:
  <p align="left">
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="36" height="36" alt="R Programming"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C Programming"/></a>
  <a href="https://www.nasm.us/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="50" height="36" alt="NASM/Assembly Language/x86 Assembly"></a>
-  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"><img src="https://vecta.io/symbols/28/microsoft-azure-color/61/sql-database-generic" width="36" height="36" alt="SQL/Oracle SQL"/></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+SQL (Structured Query Language)
  Assembly Language and SQL R, C#, C</h2>
 <h2>Technologies: Intermediate in: React.js framework, Basic Knowledge in: REST.API methods, Blazor, .net framework, ASP.NET core, Numpy, Pandas and Pyspark
 

@@ -40,7 +40,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Category:Structured_Query_Language#/media/File:SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="36" height="36" alt="SQL"/></a>
+ <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"><img src="file:///C:/Users/maxwe/Downloads/sql-database-generic.svg" width="36" height="36" alt="SQL"/></a>
 
 
 <h1>My main projects:</h1>

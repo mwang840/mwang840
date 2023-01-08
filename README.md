@@ -65,6 +65,7 @@ SQL (Structured Query Language)
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
 <a href="https://spark.apache.org/docs/latest/api/python/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36"/></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="36" height="36"/></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="36" height="36" alt="Rust Programming"></a>

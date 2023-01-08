@@ -33,7 +33,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="36" height="36" alt="R Programming"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C Programming"/></a>
  <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="50" height="36" alt="NASM/Assembly Language/x86 Assembly"></a>
- <a href="https://nodejs.org/en/"><img src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg" width="50" height="36" alt="Node.js"/></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg" width="50" height="36" alt="Node.js"/></a>
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36"/></a> 
 <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas"/></a>  
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>  

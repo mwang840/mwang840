@@ -27,7 +27,8 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
  <p align="left">
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="36" height="36" alt="R Programming"/></a>
  <a href="https://www.nasm.us/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="50" height="36" alt="NASM/Assembly Language/x86 Assembly"></a>
-  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/77694/sql" width="36" height="36" alt="SQL/Oracle SQL"/></a>
+  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/90732327/211210344-c790bbb8-dd83-44d7-9dce-861e2d7717a6.png)
+" width="36" height="36" alt="SQL/Oracle SQL"/></a>
  Assembly Language and SQL R, C#, C</h2>
 <h2>Technologies: Intermediate in: React.js framework, Basic Knowledge in: REST.API methods, Blazor, .net framework, ASP.NET core, Numpy, Pandas and Pyspark
 

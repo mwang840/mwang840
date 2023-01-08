@@ -7,14 +7,16 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmwang840%2Fmwang840&label=Viewers&countColor=%23263759)
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+
  
 Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 and aspiring to achieve more throughout my career.
 
 <h1>My experiences:</h1>
 
-<h2>Intermediate Experience in: TypeScript, Python, JavaScript, HTML/CSS, C++, Java</h2>
+<h2>Intermediate Experience in: 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+ TypeScript, Python, JavaScript, HTML/CSS, C++, Java</h2>
 <h2>Basic Knowledge in: Assembly Language and SQL R, C#, C</h2>
 <h2>Technologies: Intermediate in: React.js framework, Basic Knowledge in: REST.API methods, Blazor, .net framework, ASP.NET core, Numpy, Pandas and Pyspark
 

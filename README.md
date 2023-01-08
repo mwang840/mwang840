@@ -57,8 +57,10 @@ SQL (Structured Query Language)
 
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
-
-***Go Language, Rust, Ruby, Haxe, Elixir***
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+ <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="36" height="36" alt="Rust Programming"></a>
+ 
 <h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Artificial Intelligence, Machine Learning, Game Development and App Development</h2>
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project

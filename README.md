@@ -2,7 +2,9 @@
 ![Maxwell Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwang840&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/mwang840/github-readme-stats)
+
 ![kyu](https://www.codewars.com/users/draco_635/badges/micro)
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmwang840%2Fmwang840&label=Viewers&countColor=%23263759)
 
 <a href="https://www.github.com/mwang" target="_blank" rel="noreferrer"><img

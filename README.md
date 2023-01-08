@@ -77,7 +77,7 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 
 [Email](mailto:maxwang@udel.edu)
 
-[LinkedIn](https://www.linkedin.com/in/maxwell-wang-02595a1b9/)
+href="(https://www.linkedin.com/in/maxwell-wang-08ws/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 [Website](https://mwang840.github.io/maxwang/)
 

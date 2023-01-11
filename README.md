@@ -50,7 +50,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 [UD Course Scheduler Frontend Website](https://github.com/UD-CISC275-S22/cis-scheduler-team-007)
 
-<p>Written in TypeScript with React.js + Hooks by Maxwell Wang and two other undergraduate students, we were able to design a website that is able to generate a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, schedules for each semester and each course per semester. </p>
+<p>Written in TypeScript with React.js + Hooks + useState, this website website generates a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, schedules for each semester and each course per semester. </p>
  
 
 [Competitive Programming Club](https://github.com/mwang840/CompetiveProgramming)
@@ -64,7 +64,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 [React in a Nutshell](https://github.com/mwang840/React-In-A-nutshell)
 
-<p>Written in TypeScript with React.js + Hooks by Maxwell Wang, Joshua Strassle and Eric Toreki, we designed a website that describes what react hooks are and how the react hooks should be used properly when making a website which the client can see the description of react hooks and can click buttons to show React.js based memes</p>
+<p>Written in TypeScript with React.js + Hooks this website describes what react hooks are and how the react hooks should be used properly when making a website which the client can see the description of react hooks and can click buttons to show React.js based memes</p>
 
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>

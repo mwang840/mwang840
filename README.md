@@ -1,7 +1,7 @@
 # Maxwell Wang
 <a href="https://www.github.com/mwang840" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-[![Maxwell Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/anuraghazra/github-readme-stats)
+![Maxwell Wang's github stats](https://github-readme-stats.vercel.app/api?username=mwang840
 
 ![kyu](https://www.codewars.com/users/draco_635/badges/micro)
 

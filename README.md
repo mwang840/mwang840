@@ -53,7 +53,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 [Simple Duck Clicking Game](https://github.com/mwang840/Duck_Clicking_Game)
 
-<p>Written in C# and with the unity game engine, this game is just a basic demonstration of making a simple yet but challenging clicking game. The user can click on the duck and a score adds up from each time a duck is cliekd.</p>
+<p>Written in C# and with the unity game engine, this game is just a basic demonstration of making a simple yet but challenging clicking game. The user can click on the duck and a score adds up from each time a duck is clicked.</p>
 
 
 [Assembly Image Projects](https://github.com/mwang840/AssemblyProjects)

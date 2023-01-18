@@ -51,9 +51,9 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <p>Written in TypeScript with React.js + Hooks + useState, this website website generates a four-year plan for Computer Science/Information Science Majors. On our website, the clients are able to add, delete or change plans, schedules for each semester and each course per semester. </p>
  
 
-[Competitive Programming Club](https://github.com/mwang840/CompetiveProgramming)
+[Simple Duck Clicking Game](https://github.com/mwang840/Duck_Clicking_Game)
 
-<p>Written in C++, every Tuesdays during the school semester, I attended Competitive Programming Club hosted by undergraduate students, and then practice solving real life problems via Codeforces.com a competitive programming website applying data structures throughout each problem.</p>
+<p>Written in C# and with the unity game engine, this game is just a basic demonstration of making a simple yet but challenging clicking game. The user can click on the duck and a score adds up from each time a duck is cliekd.</p>
 
 
 [Assembly Image Projects](https://github.com/mwang840/AssemblyProjects)

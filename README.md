@@ -10,7 +10,7 @@
 src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20Followers&logoColor=blue&style=social" /></a>
 ### Skills
 
-
+[![Max's Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=mwang840&theme=gruvbox&hide_border=true&border_radius=5)](https://git.io/streak-stats)]
  
 Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 specializing in artificial intelligence and robotics and aspiring to achieve more throughout my career.
 

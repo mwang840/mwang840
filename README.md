@@ -9,6 +9,7 @@
 <a href="https://www.github.com/mwang" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20Followers&logoColor=blue&style=social" /></a>
 
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Max's Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=mwang840&theme=gruvbox&hide_border=true&border_radius=5)](https://git.io/streak-stats)]
  

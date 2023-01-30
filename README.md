@@ -76,6 +76,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="Jupyter Notebook"/></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="36" height="36" alt="Rust Programming"></a>
+ <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="SkLearn"/></a>
  
 <h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Software Engineering, Artificial Intelligence and Machine Learning</h2>
 

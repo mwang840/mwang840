@@ -78,6 +78,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="36" height="36" alt="Rust Programming"></a>
  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="SkLearn"/></a>
+ <a href="https://phaser.io/" target="blank" rel="noreferrer"><img src="https://github.com/photonstorm/phaser/blob/v2.6.2/resources/Phaser%20Logo/PNG/Phaser%20Logo%20Web%20Quality.png"  width="36" height="36"/></a>
  <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="36" height="36" alt="Seaborn"/></a>
  
 <h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Software Engineering, Artificial Intelligence and Machine Learning</h2>

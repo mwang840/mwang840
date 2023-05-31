@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20
 ![Max's Github Trophies](https://github-profile-trophy.vercel.app/?username=mwang840)
  
  
-Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 specializing in artificial intelligence and robotics and aspiring to achieve more throughout my career.
+Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 specializing in artificial intelligence and robotics and data science and aspiring to achieve more throughout my career.
 
 <h1>My experiences:</h1>
 
@@ -73,19 +73,17 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 
 <h2> I'm currently learning or will learn in the forseeable future</h2>
-<p><b>Algorithms, Automata Theory and Educational Game Development</b></p>
+<p><b>Computer Vision, Advanced Web Technologies and Machine Learning</b></p>
+
 <a href="https://matplotlib.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36"/></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="36" height="36"/></a>
+
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="Jupyter Notebook"/></a>
+
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="36" height="36" alt="Rust Programming"></a>
- <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="SkLearn"/></a>
- <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="36" height="36" alt="Seaborn"/></a>
+
  
 <h2>I hope to also apply the languages that I have learned to various Computer Science Topics, such as Full-stack Development, Software Engineering, Artificial Intelligence and Machine Learning</h2>
-<p>I'm currently a Teaching Assistant for CISC-437, Database Systems where students get to work along side with Oracle Databases in SQL and C#.</p>
-Feel free to reach out to me if you have any questions or want to collaborate on a project
 
 [Email](mailto:maxwang@udel.edu)
 

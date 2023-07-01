@@ -76,7 +76,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <p><b>Computer Vision, Advanced Web Technologies and Machine Learning</b></p>
 
 
-<a href="https://expressjs.com/"><img src="https://commons.wikimedia.org/wiki/File:Expressjs.png" width="36" height="36"/></a> 
+<a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="36" height="36"/></a> 
 <a href="https://matplotlib.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36"/></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>

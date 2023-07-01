@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20
  
  
 Greetings, you found my github! My name is Maxwell Wang and I am currently a Computer Science major at the University of Delaware class of 2024 specializing in artificial intelligence and robotics and data science and aspiring to achieve more throughout my career.
-
+<p>Currently, I have an software engineering internship this summer!</p> 
 <h1>My experiences:</h1>
 
 <h2>Intermediate Experience in: </h2>
@@ -75,8 +75,8 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 <h2> I'm currently learning or will learn in the forseeable future</h2>
 <p><b>Computer Vision, Advanced Web Technologies and Machine Learning</b></p>
 
-<p>I also have an internship this summer!</p> 
- 
+
+<a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-ar21.svg" width="36" height="36"/></a> 
 <a href="https://matplotlib.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36"/></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -87,7 +87,7 @@ Greetings, you found my github! My name is Maxwell Wang and I am currently a Com
 
 [Email](mailto:maxwang@udel.edu)
 
-<a href="https://www.linkedin.com/in/maxwell-wang-08ws/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[LinkedIn](linkedin.com/in/maxwell-wang-08ws/)
 
 [Website](https://maxwangdev.vercel.app/)
 

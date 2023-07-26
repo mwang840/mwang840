@@ -6,7 +6,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sCi_2444/)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/dracoM)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@draco4809)
-[![Hackerrank Badge](https://www.hackerrank.com/maxwang2?hr_r=1)]
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/maxwang2?hr_r=1)
 
 ![kyu](https://www.codewars.com/users/draco_635/badges/micro)
 ![leetcodePts](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FsCi_2444&logo=leetcode&logoColor=yellow)

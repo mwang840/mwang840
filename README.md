@@ -9,6 +9,7 @@
 [![Hackerrank Badge](https://www.hackerrank.com/maxwang2?hr_r=1)]
 
 ![kyu](https://www.codewars.com/users/draco_635/badges/micro)
+![leetcodePts](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FsCi_2444&logo=leetcode&logoColor=yellow)
 
 <a href="https://www.github.com/mwang" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20Followers&logoColor=blue&style=social" /></a>

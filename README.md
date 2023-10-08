@@ -45,13 +45,13 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="40" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="40">
+<img src="C:\Users\maxwe\OneDrive\Documents\mwang840\assets\numpy-1.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="40" width="40">

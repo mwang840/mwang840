@@ -51,7 +51,7 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="40">
-<img src="https://github.com/mwang840/mwang840/main/assets/numpy-1.svg" height="40" width="40">
+<img src="https://github.com/mwang840/mwang840/blob/main/assets/numpy-1.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="40" width="40">

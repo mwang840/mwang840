@@ -53,6 +53,7 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" width="40">
 <img src="https://github.com/mwang840/mwang840/blob/main/assets/numpy-1.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" width="40">
+<img src="https://github.com/mwang840/mwang840/blob/main/assets/Pandas.png" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="40" width="40">
@@ -65,5 +66,4 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="40" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" height="40" width="40">
 </p>

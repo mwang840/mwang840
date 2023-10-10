@@ -59,6 +59,7 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="40" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="40" width="40">

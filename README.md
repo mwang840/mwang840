@@ -25,7 +25,7 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, TypeScript, Python, Numpy, MatplotLib, C++, low level programming and much more
-- 🚀 &nbsp; I’m currently learning Full Stack Development, Machine Learning, Computer Visions and Advanced Sofware Engineering.
+- 🚀 &nbsp; I’m currently learning Artificial Intelligence, Cybersecurity, Secure Software Design, Competitive Programming and Advanced Sofware Engineering.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mwang840).
 - 👾 &nbsp; Fun fact: Statically Typed Languages are Better than Dynamically Typed Languages.
 - 📫 &nbsp; How to reach me: maxwell.y.wang@gmail.com or maxwang@udel.edu (school)

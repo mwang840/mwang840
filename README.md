@@ -14,7 +14,7 @@
 <a href="https://www.github.com/mwang" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20Followers&logoColor=blue&style=social" /></a>
 
-I'm an  an Computer Science Graduate 🎓 from the University of Delaware 🏛. I'm a passionate learner who's always willing to learn and work across concepts, technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development (full stack), AI/ML, Math and Data Science 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a recent Computer Science Graduate 🎓 from the University of Delaware 🏛. I'm a passionate learner who's always willing to learn and work across concepts, technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development (full stack), AI/ML, Math and Data Science 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/anuraghazra/github-readme-stats)
 

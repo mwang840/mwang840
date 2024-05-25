@@ -14,7 +14,7 @@
 <a href="https://www.github.com/mwang" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mwang840?color=blue&label=Github%20Followers&logoColor=blue&style=social" /></a>
 
-I'm currently an senior ungraduate in Computer Science with a focus in AI and Robotics 🎓 from the University of Delaware 🏛. I'm a passionate learner who's always willing to learn and work across concepts, technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development (full stack), AI/ML, Math and Data Science 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm an  an Computer Science Graduate 🎓 from the University of Delaware 🏛. I'm a passionate learner who's always willing to learn and work across concepts, technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development (full stack), AI/ML, Math and Data Science 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwang840)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,7 +25,7 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, TypeScript, Python, Numpy, MatplotLib, C++, low level programming and much more
-- 🚀 &nbsp; I’m currently learning Artificial Intelligence, Cybersecurity, Secure Software Design, Competitive Programming and Advanced Sofware Engineering.
+- 🚀 &nbsp; I’m an incoming Software Engineer at Northrop Grumman.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mwang840).
 - 👾 &nbsp; Fun fact: Statically Typed Languages are Better than Dynamically Typed Languages.
 - 📫 &nbsp; How to reach me: maxwell.y.wang@gmail.com or maxwang@udel.edu (school)
@@ -68,4 +68,5 @@ I'm currently an senior ungraduate in Computer Science with a focus in AI and Ro
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="40" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Radare2.svg" height="40" width="40">
 </p>

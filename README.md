@@ -69,4 +69,5 @@ I'm an  an Computer Science Graduate 🎓 from the University of Delaware 🏛. 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Radare2.svg" height="40" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" height="40" width="40">
 </p>

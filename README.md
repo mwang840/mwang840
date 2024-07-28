@@ -24,7 +24,7 @@ I'm a recent Computer Science Graduate 🎓 from the University of Delaware 🏛
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, TypeScript, Python, Numpy, MatplotLib, C++, low level programming and much more
+- 🛠 &nbsp; I’m currently working on projects in Web Development, Data Visualization/Data Science or GUI Development
 - 🚀 &nbsp; I’m an incoming Software Engineer at Northrop Grumman.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mwang840).
 - 👾 &nbsp; Fun fact: Statically Typed Languages are Better than Dynamically Typed Languages.
